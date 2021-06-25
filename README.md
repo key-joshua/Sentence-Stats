@@ -38,7 +38,7 @@ Let us write a function that receives a sentence like:
 #### Captured From Browser
 
 
-
+![|Setence Stats app](SetenceStats.PNG)
 
 ### Any Blocker/Issue
 
