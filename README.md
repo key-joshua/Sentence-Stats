@@ -24,7 +24,7 @@ Let us write a function that receives a sentence like:
 
 ## HOW SHOULD THIS BE AUTOMATICALLY TESTED ?
 
-- Click open link => [codepen](https://codepen.io/key-joshua/pen/GRWVwpd)
+- Click open app for test live => [codepen](https://codepen.io/key-joshua/pen/GRWVwpd)
 
 ## ANY BACKGROUND CONTEXT YOU  WANT TO PROVIDE ?
 
